@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    - [podcast](https://www.linkedin.com/posts/sandro-de-souza-0b7711337_podcast-criado-em-exerc%C3%ADcio-de-capacita%C3%A7%C3%A3o-activity-7261782490640486401-K6v-?utm_source=share&utm_medium=member_ios)
 </p>
 
 <div align="center">
