@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    - [podcast](https://www.linkedin.com/posts/sandro-de-souza-0b7711337_podcast-criado-em-exerc%C3%ADcio-de-capacita%C3%A7%C3%A3o-activity-7261782490640486401-K6v-?utm_source=share&utm_medium=member_ios)
+   
 </p>
 
 <div align="center">
@@ -54,7 +54,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+- [PodCast](https://www.linkedin.com/posts/sandro-de-souza-0b7711337_podcast-criado-em-exerc%C3%ADcio-de-capacita%C3%A7%C3%A3o-activity-7261782490640486401-K6v-?utm_source=share&utm_medium=member_ios)
 
 ## 🛠️ Instruções de execução
 
